@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+## Guangjiang
 
 Hello world
+
+7.5-year experience in laser optics: THz, 800 nm Ti-sapphire fs laser, 532 nm mJ laser, 400nm fiber laser
+1) Mainly applied Time-resolved THz spectroscopy techniques studying the microscopic conductivity and photoconductivity of nanomaterials including solar energy materials, THz EMI shielding materials. materials. 
+2) I also worked on a 250 GHz gyrotron Amplifier for DNP-NMR and a laser-driven semiconductor switch.
+
+Keywords: Optics, Quasioptics, cryogenics, 2D materials, THz sources, RF waveguide, VNA, ultrahigh vacuum, superconductive magnet;
+Actively searching full-time position
 You can use the [editor on GitHub](https://github.com/guangjiangli/guangjiangli.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
