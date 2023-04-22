@@ -29,6 +29,7 @@ body {
     font-size: 1em;
 }
 
+
 .details a:hover, .right-panel a:hover { color: rgb(200, 0, 0); }
 a:active { color: rgb(255, 0, 102) }
 #sidebar a:hover{text-decoration: none;}
